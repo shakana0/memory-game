@@ -1,0 +1,24 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    height: 25%;
+    margin-left: 25%;
+}
+
+
+body{
+    height: 100vh;
+    background: pink; 
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    border: black solid 4px;
+}
+
+.catti{
+    border: none;
+   
+}
