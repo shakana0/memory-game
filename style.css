@@ -1,24 +1,25 @@
-.grid{
-    display: flex;
-    flex-wrap: wrap;
-    width: 50%;
-    height: 25%;
-    margin-left: 25%;
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+  height: 25%;
+  margin-left: 25%;
 }
 
-
-body{
-    height: 100vh;
-    background: pink; 
+body {
+  height: 100vh;
+  background: pink;
+}
+h1 {
+  text-align: center;
 }
 
-img{
-    height: 150px;
-    width: 150px;
-    border: black solid 4px;
+img {
+  height: 150px;
+  width: 150px;
+  border: black solid 4px;
 }
 
-.catti{
-    border: none;
-   
+.catti {
+  border: none;
 }
